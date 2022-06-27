@@ -82,7 +82,6 @@ var Game = /** @class */ (function () {
                 }
                 this.cells[(this.howManyRows * 5) + x] = temp;
             }
-            // this.insertCube(guess)
         }
         if (this.howManyRows < 6) {
             this.howManyRows++;

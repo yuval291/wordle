@@ -56,7 +56,6 @@ export class Game{
                 }
                 this.cells[(this.howManyRows*5)+x]=temp;
             }
-            // this.insertCube(guess)
         }
 
         if(this.howManyRows<6) {
