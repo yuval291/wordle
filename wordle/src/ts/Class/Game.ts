@@ -1,5 +1,5 @@
 import {Cell} from "./Cell";
-import {View} from "./View";
+
 import {WORDS} from "../words";
 
 
